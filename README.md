@@ -6,11 +6,10 @@
 - Archivos .ipynb, .csv.
 
 
-## Nuevo update:
-### Ahora los archivos que comienzan con "clase", se enumeran: clase2, clase3, etc.
-### Se añadió la bitácora. Se removió versión borrador de P2.
+## *Último update*:
 
+#### - A partir de la clase 2, los archivos que comienzan con "clase", se enumeran: clase2, clase3, etc.
+#### - Se añadió la bitácora. Se removió versión borrador de P2.
+#### - Se mejoró la sección de updates del repositorio (esta sección).
 
-### [Este repositorio se actualiza constantemente]
-
-Última actualización pública: 22-08-2025 08:51:20 zona horaria UTC-03:00
+Última actualización pública: 23-08-2025 09:49:38 zona horaria UTC-03:00
