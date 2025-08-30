@@ -8,7 +8,8 @@
 
 ## *Último update*:
 
-#### - Se subió clase_p1_estacionaria.py
+#### - Se subió `p2_modelos_2025.pdf`.
+#### - Se mejoró el enunciado del ejercicio de población estacionaria de la P1.
 
 
-Última actualización pública: 29-08-2025 15:28:40 zona horaria UTC-03:00
+Última actualización pública: 30-08-2025 13:33:50 zona horaria UTC-03:00
