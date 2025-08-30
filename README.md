@@ -12,4 +12,4 @@
 #### - Se mejoró el enunciado del ejercicio de población estacionaria de la P1.
 
 
-Última actualización pública: 30-08-2025 13:43:26 zona horaria UTC-03:00
+Última actualización pública: 30-08-2025 17:42:45 zona horaria UTC-03:00
