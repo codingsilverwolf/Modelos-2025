@@ -9,7 +9,7 @@
 ## *Último update*:
 
 #### - Se subieron  `clase_p1_estacionaria.html`, `clase_p1_estacionaria.ipynb`, `clase_p1_estacionaria.md`, `clase_p1_estacionaria.py`.
-#### - Se corrigió el enunciado del ejercicio de población estacionaria de la P1.
+#### - Se corrigió el enunciado del ejercicio de población estacionaria de la P1 y el enunciado de los ciervos de la P2.
 #### - Bitácora.
 
-Última actualización pública: 04-09-2025 12:47:33 zona horaria UTC-03:00
+Última actualización pública: 04-09-2025 12:51:32 zona horaria UTC-03:00
