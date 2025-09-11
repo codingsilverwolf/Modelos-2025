@@ -11,4 +11,4 @@
 #### - `biblioteca_modelos_2025.ipynb`
 #### - Bitácora.
 
-Última actualización pública: 11-09-2025 11:39:42 zona horaria UTC-03:00
+Última actualización pública: 11-09-2025 11:41:26 zona horaria UTC-03:00
