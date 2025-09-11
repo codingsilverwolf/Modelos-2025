@@ -12,4 +12,4 @@
 #### - Se corrigió el enunciado del ejercicio de población estacionaria de la P1 y el enunciado de los ciervos de la P2.
 #### - Bitácora.
 
-Última actualización pública: 11-09-2025 10:18:10 zona horaria UTC-03:00
+Última actualización pública: 11-09-2025 10:28:41 zona horaria UTC-03:00
