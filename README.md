@@ -8,7 +8,6 @@
 
 ## *Último update*:
 
-#### - `biblioteca_modelos_2025.ipynb`
-#### - Bitácora.
+#### - `p3_modelos_2025`
 
-Última actualización pública: 15-09-2025 13:13:21 zona horaria UTC-03:00
+Última actualización pública: 24-09-2025 18:18:59 zona horaria UTC-03:00
