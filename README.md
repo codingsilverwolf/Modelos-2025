@@ -8,6 +8,6 @@
 
 ## *Último update*:
 
-#### - `p3_modelos_2025`
+#### Bitácora. Prioridad: MUY ALTA. 
 
-Última actualización pública: 25-10-2025 17:18:29 zona horaria UTC-03:00
+Última actualización pública: 02-11-2025 16:32:52 zona horaria UTC-03:00
